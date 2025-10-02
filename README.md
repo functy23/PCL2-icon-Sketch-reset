@@ -1,4 +1,4 @@
-# PCL2 图标重制指南 / PCL2 Icon Remastering Guide
+# PCL2 图标重制 / PCL2 Icon Rest
 
 ## 概述 / Overview
 
