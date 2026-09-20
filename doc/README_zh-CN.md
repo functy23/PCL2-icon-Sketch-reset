@@ -2,7 +2,7 @@
 
 # 🎨 PCL2 Icon Rest
 
-**Vector rebuilds of the PCL2 icon set in Sketch — same design, sharper at every size.**
+**用 Sketch 重建的 PCL2 图标矢量版本 —— 设计不变，各尺寸都更清晰。**
 
 [![PCL2%20Icon%20Rest](https://img.shields.io/badge/PCL2%20Icon%20Rest-Sketch-orange.svg)](https://github.com/functy23/PCL2-icon-Sketch-reset)
 [![Sketch](https://img.shields.io/badge/Sketch-vector-orange.svg?logo=sketch&logoColor=white)](https://www.sketch.com/)
@@ -14,13 +14,13 @@
 
 [Issues](https://github.com/functy23/PCL2-icon-Sketch-reset/issues)
 
-**English** | [简体中文](doc/README_zh-CN.md)
+[English](../README.md) | **简体中文**
 </div>
 
 ---
 
-## Overview
+## 概述
 
-This project aims to recreate a vector version using Sketch while maintaining the original icon design, enhancing the icon's clarity and multi-size adaptability.
+此项目旨在保持图标原有设计不变的情况下，通过Sketch重新创建矢量版本，提升图标的清晰度和多尺寸适应性。
 
 <img width="554" height="555" alt="画框" src="https://github.com/user-attachments/assets/c915c54f-e0fb-41c1-ad01-918f7975545a" />
